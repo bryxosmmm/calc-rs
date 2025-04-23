@@ -2,7 +2,7 @@
 
 
 ## Example
-For expr like `(+ 34 35)` asm would be:
+For expression like `(+ 34 35)` asm would be:
 
 ```asm
 format ELF64
